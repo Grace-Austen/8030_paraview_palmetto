@@ -1,0 +1,6 @@
+<VTKFile type="vtkMultiBlockDataSet" version="1.0" byte_order="LittleEndian" header_type="UInt64">
+  <vtkMultiBlockDataSet>
+    <DataSet index="0" file="split_tree_ungrouped/split_tree_ungrouped_0_0.vtu"/>
+    <DataSet index="1" file="split_tree_ungrouped/split_tree_ungrouped_1_0.vtu"/>
+  </vtkMultiBlockDataSet>
+</VTKFile>

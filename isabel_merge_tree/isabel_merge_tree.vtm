@@ -1,0 +1,16 @@
+<VTKFile type="vtkMultiBlockDataSet" version="1.0" byte_order="LittleEndian" header_type="UInt64">
+  <vtkMultiBlockDataSet>
+    <DataSet index="0" file="isabel_merge_tree/isabel_merge_tree_0_0.vtu"/>
+    <DataSet index="1" file="isabel_merge_tree/isabel_merge_tree_1_0.vtu"/>
+    <DataSet index="2" file="isabel_merge_tree/isabel_merge_tree_2_0.vtu"/>
+    <DataSet index="3" file="isabel_merge_tree/isabel_merge_tree_3_0.vtu"/>
+    <DataSet index="4" file="isabel_merge_tree/isabel_merge_tree_4_0.vtu"/>
+    <DataSet index="5" file="isabel_merge_tree/isabel_merge_tree_5_0.vtu"/>
+    <DataSet index="6" file="isabel_merge_tree/isabel_merge_tree_6_0.vtu"/>
+    <DataSet index="7" file="isabel_merge_tree/isabel_merge_tree_7_0.vtu"/>
+    <DataSet index="8" file="isabel_merge_tree/isabel_merge_tree_8_0.vtu"/>
+    <DataSet index="9" file="isabel_merge_tree/isabel_merge_tree_9_0.vtu"/>
+    <DataSet index="10" file="isabel_merge_tree/isabel_merge_tree_10_0.vtu"/>
+    <DataSet index="11" file="isabel_merge_tree/isabel_merge_tree_11_0.vtu"/>
+  </vtkMultiBlockDataSet>
+</VTKFile>
