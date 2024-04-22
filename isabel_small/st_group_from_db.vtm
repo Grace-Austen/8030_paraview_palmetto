@@ -1,0 +1,16 @@
+<VTKFile type="vtkMultiBlockDataSet" version="1.0" byte_order="LittleEndian" header_type="UInt64">
+  <vtkMultiBlockDataSet>
+    <Block index="0" name="TTKMergeandContourTreeFTM2">
+      <DataSet index="0" file="st_group_from_db/st_group_from_db_0_0.vtu"/>
+      <DataSet index="1" file="st_group_from_db/st_group_from_db_1_0.vtu"/>
+    </Block>
+    <Block index="1" name="TTKMergeandContourTreeFTM2">
+      <DataSet index="0" file="st_group_from_db/st_group_from_db_2_0.vtu"/>
+      <DataSet index="1" file="st_group_from_db/st_group_from_db_3_0.vtu"/>
+    </Block>
+    <Block index="2" name="TTKMergeandContourTreeFTM2">
+      <DataSet index="0" file="st_group_from_db/st_group_from_db_4_0.vti"/>
+      <DataSet index="1" file="st_group_from_db/st_group_from_db_5_0.vti"/>
+    </Block>
+  </vtkMultiBlockDataSet>
+</VTKFile>

@@ -1,8 +1,0 @@
-<VTKFile type="vtkMultiBlockDataSet" version="1.0" byte_order="LittleEndian" header_type="UInt64">
-  <vtkMultiBlockDataSet>
-    <Block index="0" name="TTKMergeandContourTreeFTM1">
-      <DataSet index="0" file="split_tree/split_tree_0_0.vtu"/>
-      <DataSet index="1" file="split_tree/split_tree_1_0.vtu"/>
-    </Block>
-  </vtkMultiBlockDataSet>
-</VTKFile>

@@ -1,0 +1,30 @@
+<VTKFile type="vtkMultiBlockDataSet" version="1.0" byte_order="LittleEndian" header_type="UInt64">
+  <vtkMultiBlockDataSet>
+    <Block index="0" name="TTKMergeTreeClustering1">
+      <Block index="0">
+        <DataSet index="0" file="isabel_merge_tree_grouped_full/isabel_merge_tree_grouped_full_0_0.vtu"/>
+        <DataSet index="1" file="isabel_merge_tree_grouped_full/isabel_merge_tree_grouped_full_1_0.vtu"/>
+      </Block>
+      <Block index="1">
+        <DataSet index="0" file="isabel_merge_tree_grouped_full/isabel_merge_tree_grouped_full_2_0.vtu"/>
+        <DataSet index="1" file="isabel_merge_tree_grouped_full/isabel_merge_tree_grouped_full_3_0.vtu"/>
+      </Block>
+    </Block>
+    <Block index="1" name="TTKMergeTreeClustering1">
+      <Block index="0">
+        <DataSet index="0" file="isabel_merge_tree_grouped_full/isabel_merge_tree_grouped_full_4_0.vtu"/>
+        <DataSet index="1" file="isabel_merge_tree_grouped_full/isabel_merge_tree_grouped_full_5_0.vtu"/>
+        <DataSet index="2" file="isabel_merge_tree_grouped_full/isabel_merge_tree_grouped_full_6_0.vtu"/>
+      </Block>
+      <Block index="1">
+        <DataSet index="0" file="isabel_merge_tree_grouped_full/isabel_merge_tree_grouped_full_7_0.vtu"/>
+        <DataSet index="1" file="isabel_merge_tree_grouped_full/isabel_merge_tree_grouped_full_8_0.vtu"/>
+        <DataSet index="2" file="isabel_merge_tree_grouped_full/isabel_merge_tree_grouped_full_9_0.vtu"/>
+      </Block>
+    </Block>
+    <Block index="2" name="TTKMergeTreeClustering1">
+      <DataSet index="0" file="isabel_merge_tree_grouped_full/isabel_merge_tree_grouped_full_10_0.vtu"/>
+      <DataSet index="1" file="isabel_merge_tree_grouped_full/isabel_merge_tree_grouped_full_11_0.vtu"/>
+    </Block>
+  </vtkMultiBlockDataSet>
+</VTKFile>

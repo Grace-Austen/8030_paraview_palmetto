@@ -1,0 +1,30 @@
+<VTKFile type="vtkMultiBlockDataSet" version="1.0" byte_order="LittleEndian" header_type="UInt64">
+  <vtkMultiBlockDataSet>
+    <Block index="0" name="TTKMergeTreeClustering1">
+      <Block index="0">
+        <DataSet index="0" file="grouped_clustered_merge_trees/grouped_clustered_merge_trees_0_0.vtu"/>
+        <DataSet index="1" file="grouped_clustered_merge_trees/grouped_clustered_merge_trees_1_0.vtu"/>
+      </Block>
+      <Block index="1">
+        <DataSet index="0" file="grouped_clustered_merge_trees/grouped_clustered_merge_trees_2_0.vtu"/>
+        <DataSet index="1" file="grouped_clustered_merge_trees/grouped_clustered_merge_trees_3_0.vtu"/>
+      </Block>
+    </Block>
+    <Block index="1" name="TTKMergeTreeClustering1">
+      <Block index="0">
+        <DataSet index="0" file="grouped_clustered_merge_trees/grouped_clustered_merge_trees_4_0.vtu"/>
+        <DataSet index="1" file="grouped_clustered_merge_trees/grouped_clustered_merge_trees_5_0.vtu"/>
+        <DataSet index="2" file="grouped_clustered_merge_trees/grouped_clustered_merge_trees_6_0.vtu"/>
+      </Block>
+      <Block index="1">
+        <DataSet index="0" file="grouped_clustered_merge_trees/grouped_clustered_merge_trees_7_0.vtu"/>
+        <DataSet index="1" file="grouped_clustered_merge_trees/grouped_clustered_merge_trees_8_0.vtu"/>
+        <DataSet index="2" file="grouped_clustered_merge_trees/grouped_clustered_merge_trees_9_0.vtu"/>
+      </Block>
+    </Block>
+    <Block index="2" name="TTKMergeTreeClustering1">
+      <DataSet index="0" file="grouped_clustered_merge_trees/grouped_clustered_merge_trees_10_0.vtu"/>
+      <DataSet index="1" file="grouped_clustered_merge_trees/grouped_clustered_merge_trees_11_0.vtu"/>
+    </Block>
+  </vtkMultiBlockDataSet>
+</VTKFile>
